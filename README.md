@@ -19,10 +19,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rishabjs03&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabjs03&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rishabjs03&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=Rishabjs03&icon=5&color=2)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
