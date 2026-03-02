@@ -5,7 +5,6 @@
 - 💻 AI-Engineer & Full Stack Developer with a strong focus on building AI-driven products and automation tools.
 - 🧠 Skilled in developing AI Agents using LangChain, OpenAI APIs, and modern web stacks.
 - 🌐 Passionate about merging frontend creativity with backend logic to craft seamless user experiences.
-- 📊 Ex-CA aspirant turned developer — bringing analytical thinking and structured problem-solving into tech.
 - 🚀 Always learning, building, and experimenting with new-age AI and web technologies.
 
 
