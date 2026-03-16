@@ -5,7 +5,7 @@
 
 - Experienced in working with modern AI models, agentic architectures, APIs, and full stack technologies to transform ideas into efficient, real-world solutions.
 
-- Driven by the intersection of AI, engineering, and product design — crafting experiences that are not only functional, but intuitive and impactful.
+- Driven by the intersection of AI, engineering, and product design crafting experiences that are not only functional, but intuitive and impactful.
 
 
 ## 🌐 Socials:
