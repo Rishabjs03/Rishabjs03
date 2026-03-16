@@ -1,11 +1,11 @@
 ## Hi! I'm Rishab agarwal 
 
 👋 About Me
+- AI Engineer & Full Stack Developer with a strong focus on building AI-powered products, intelligent automation systems, and scalable web platforms.
 
-- AI-Engineer & Full Stack Developer with a strong focus on building AI-driven products and automation tools.
-- Skilled in developing AI Agents using LangChain, OpenAI APIs, and modern web stacks.
-- Passionate about merging frontend creativity with backend logic to craft seamless user experiences.
-- Always learning, building, and experimenting with new-age AI and web technologies.
+- Experienced in working with modern AI models, agentic architectures, APIs, and full stack technologies to transform ideas into efficient, real-world solutions.
+
+- Driven by the intersection of AI, engineering, and product design — crafting experiences that are not only functional, but intuitive and impactful.
 
 
 ## 🌐 Socials:
